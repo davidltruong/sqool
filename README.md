@@ -11,4 +11,4 @@ This is a project I completed as a student at [hackreactor](http://hackreactor.c
 
 ## Usage
 
-This short project is to show the relationships between different databases.
+This short project is to show the relationships between different database tables.
